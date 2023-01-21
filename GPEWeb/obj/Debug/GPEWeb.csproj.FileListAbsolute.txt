@@ -1,0 +1,269 @@
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.dll.config
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.pdb
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.exe
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.rsp
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.exe
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.rsp
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.AppContext.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Console.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.exe
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.rsp
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Antlr3.Runtime.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Newtonsoft.Json.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Helpers.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Mvc.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Optimization.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Razor.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\WebGrease.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Optimization.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Newtonsoft.Json.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Antlr3.Runtime.pdb
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Razor.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Helpers.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Mvc.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.CoreCompileInputs.cache
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.CopyComplete
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.dll
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.pdb
+C:\Users\RParker.SHIPCOM\OneDrive\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csprojAssemblyReference.cache
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.CoreCompileInputs.cache
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.pdb
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.dll.config
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.pdb
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.exe
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.rsp
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.exe
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.rsp
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.AppContext.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Console.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.exe
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.rsp
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Antlr3.Runtime.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Newtonsoft.Json.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Helpers.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Mvc.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Optimization.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Razor.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\WebGrease.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Optimization.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Newtonsoft.Json.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Antlr3.Runtime.pdb
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Razor.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Helpers.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Mvc.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.CopyComplete
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AjaxControlToolkit.dll
+C:\Users\RParker.SHIPCOM\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.AssemblyReference.cache
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.dll.config
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\GPEWeb.pdb
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.exe
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.exe.config
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csc.rsp
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.exe
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.exe.config
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\csi.rsp
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.AppContext.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Console.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.exe
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.exe.config
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\vbc.rsp
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AjaxControlToolkit.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Antlr3.Runtime.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Newtonsoft.Json.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Helpers.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Mvc.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Optimization.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Razor.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\WebGrease.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Optimization.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Newtonsoft.Json.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Antlr3.Runtime.pdb
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Razor.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Helpers.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Mvc.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.AssemblyReference.cache
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.CoreCompileInputs.cache
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.csproj.CopyComplete
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.dll
+C:\Users\rparker\OneDrive - appstarus.com\Genox\Operations\Pricing Engine\Website\GPEWeb\GPEWeb\obj\Debug\GPEWeb.pdb

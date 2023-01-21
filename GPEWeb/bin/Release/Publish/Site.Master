@@ -1,0 +1,299 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="GPEWeb.SiteMaster" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Genox Pricing Engine</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <%--<script type="text/javascript" >
+                window.onload = function () {
+                        var strCook = document.cookie;
+
+                        if (strCook.indexOf("!~") != 0) {
+                                var intS = strCook.indexOf("!~");
+                                var intE = strCook.indexOf("~!");
+                                var strPos = strCook.substring(intS + 2, intE);
+                                document.getElementById("MainContent").scrollTop = strPos;
+                        }
+
+                }
+        </script>
+        <script type="text/javascript" >
+                function SetDivPosition() {
+                        var intY = document.getElementById("MainContent").scrollTop;
+                        document.cookie = "yPos=!~" + intY + "~!";
+                }
+        </script>--%>
+
+    
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager  EnablePartialRendering="True" runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+                
+            </Scripts>
+        </asp:ScriptManager>
+
+        <script type="text/javascript">
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_beginRequest(beginRequest);
+            function beginRequest()
+            {
+                prm._scrollPosition = null;
+            }
+        </script>
+
+        <style type="text/css">  
+            .modalBackground  
+            {  
+                background-color: Black;  
+                filter: alpha(opacity=90);  
+                opacity: 0.8;  
+            }  
+      
+            .modalPopup  
+            {  
+                background-color: #FFFFFF;  
+                border-width: 3px;  
+                border-style: solid;  
+                border-color: black;  
+                padding-top: 10px;  
+                padding-left: 10px;  
+                width: 500px;  
+                height: 300px;  
+            }  
+        </style>  
+
+        <%--<script type="text/javascript">
+
+            var docScrollTop;
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+
+            function BeginRequestHandler(sender, args) {
+                docScrollTop= $(document).scrollTop() - 500;
+            }
+
+            function EndRequestHandler(sender, args) {
+                $(document).scrollTop(docScrollTop);
+            }
+
+            prm.add_beginRequest(BeginRequestHandler);
+            prm.add_endRequest(EndRequestHandler);
+
+        </script>--%>
+
+        <%--<script type="text/javascript" >
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_pageLoaded(pageLoaded);
+            prm.add_beginRequest(beginRequest);
+            var postbackElement;
+
+            function beginRequest(sender, args) {
+                postbackElement = args.get_postBackElement();
+            }
+
+            function pageLoaded(sender, args) {
+                var updatedPanels = args.get_panelsUpdated();
+                if (typeof(postbackElement) == "undefined") {
+                    return;
+                }
+                if (postbackElement.id.toLowerCase().indexOf('gvmodelexpenseitem') > -1) {
+                    $get("divScroll").scrollTop = $get("hdnScrollTop").value;
+                    
+                }
+                alert($get("hdnScrollTop").value);
+             }
+        </script>--%>
+
+        <
+        <%--<script type="text/javascript">
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_pageLoaded(pageLoaded);
+            prm.add_beginRequest(beginRequest);
+            var postbackElement; 
+
+            function beginRequest(sender, args) {
+                postbackElement = args.get_postBackElement();
+            }
+
+            function pageLoaded(sender, args) {
+                //var panelsUpdated = args.get_panelsUpdated();
+                if (typeof(postbackElement) == "undefined") {
+                    return;
+                }
+                if (postbackElement.id.toLowerCase().indexOf('gvmodelexpenseetem') > -1) {
+                    $get("divdatagrid1").scrollTop = $get("scrollPos").value;
+                }
+            }
+
+            function setScroll(val, posId) {
+                posId.value = val.scrollTop;
+            }
+        </script> --%>
+
+        <%--<script type="text/javascript">
+            //Ensure that you place the Javascript code after the script manager
+            var xPos, yPos;
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_beginRequest(BeginRequestHandler);
+            prm.add_endRequest(EndRequestHandler);
+            function BeginRequestHandler(sender, args) {
+                xPos = $get('dvScroll').scrollLeft;
+                //yPos = $get('dvScroll').scrollTop;
+                yPos = $(document).scrollTop();
+            }
+            function EndRequestHandler(sender, args) {
+                //if ($get('dvScroll').scrollLeft != xPos)
+                //    $get('dvScroll').scrollLeft = xPos;
+                //if ($get('dvScroll').scrollTop != yPos)
+                    //$get('dvScroll').scrollTop = yPos;
+                    $(document).scrollTop() = yPos;
+            }
+        </script>--%>
+
+        <%--<script type = "text/javascript">
+            window.onload = function () {
+                var scrollY = parseInt('<%=Request.Form["scrollY"] %>');             
+                if (!isNaN(scrollY)) {
+                    window.scrollTo(0, scrollY);
+                }
+            };
+            window.onscroll = function () {
+                var scrollY = document.body.scrollTop;
+                if (scrollY == 0) {
+                    if (window.pageYOffset) {
+                        scrollY = window.pageYOffset;
+                    }
+                    else {
+                        scrollY = (document.body.parentElement) ? document.body.parentElement.scrollTop : 0;
+                    }
+                }
+                if (scrollY > 0) {
+                    var input = document.getElementById("scrollY");
+                    if (input == null) {
+                        input = document.createElement("input");
+                        input.setAttribute("type", "hidden");
+                        input.setAttribute("id", "scrollY");
+                        input.setAttribute("name", "scrollY");
+                        document.forms[0].appendChild(input);
+                    }
+                    input.value = scrollY;
+                }
+            };
+        </script>  --%>
+
+        
+
+        <div  class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Genox Pricing Engine</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/Estimate">Estimates</a></li>
+                        <li><a runat="server" href="~/Model">Models</a></li>
+                        <li><a runat="server" href="~/Customer">Customers</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <%--<div class="container container-fluid">--%>
+        <div id="dvscroll" class="container-fluid">
+            
+                <asp:UpdatePanel ID="MainUP" UpdateMode="Conditional" runat="server" >
+                        <ContentTemplate>
+                            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+
+                            <div>
+
+                                    <%-- START : Fake Controler for ModalPopupExtender --%>
+                                    <asp:HiddenField ID="hfo" runat="server" />
+                                    <%-- END : Fake Controler for ModalPopupExtender --%>
+    
+                                    <!-- ModalPopupExtender -->
+                                    <cc1:ModalPopupExtender ID="CommentModal" BehaviorId="CommentModal" runat="server" PopupControlID="CommentPanel" TargetControlID="hfo"
+                                        CancelControlID="bntCancel" DropShadow="true" BackgroundCssClass="modalBackground">
+                                    </cc1:ModalPopupExtender>
+                                    <asp:Panel ID="CommentPanel" runat="server" CssClass="modalPopup" align="center" style = "display:none">
+                                        <asp:HiddenField ID="CommentID" runat="server" />
+                                        <asp:HiddenField ID="CommentType" runat="server" />
+                                        <b>Please enter your comment</b>
+                                        <br />
+                                        <asp:Label runat="server" ID="CommentDesc" />
+                                        <br />
+                                        <asp:TextBox runat="server" ID="txtComment" style="resize:none" Width="400" Height="200" TextMode="MultiLine" />
+                                        <br />
+                                        <asp:Button ID="btnSaveComment" runat="server" Text="Save" OnClick="btnSaveComment_Click" />
+                                        <asp:Button ID="bntCancel" runat="server" Text="Cancel" />
+                                    </asp:Panel>
+                                    <!-- ModalPopupExtender -->
+
+                            </div>
+
+
+                            <div class="footer">
+                                <table style="width: 100%" >                                    
+                                    <tr>
+                                        <td style="text-align:left">
+                                            <asp:Label ID="lblStatus" Text="" runat="server"/>                        
+                                        </td>
+                                        <td style="text-align:right">&copy; <%: DateTime.Now.Year %> - Genox Pricing Engine</td>                                    
+                                    </tr>
+                                </table>
+                            </div>
+                            
+                        </ContentTemplate>
+                        
+                </asp:UpdatePanel>
+                                
+            
+        </div>   
+        
+
+        
+       
+        
+            
+        
+        
+
+    </form>
+</body>
+</html>
+
+
